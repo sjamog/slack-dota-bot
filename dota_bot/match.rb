@@ -81,7 +81,7 @@ module DotaBot
     end
 
     def formatted_start_time
-      Time.at(start_time).in_time_zone('Australia/Adelaide').strftime("%l:%M %p").strip
+      Time.at(start_time).in_time_zone('America/New_York').strftime("%l:%M %p").strip
     end
 
     def formatted_duration
