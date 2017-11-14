@@ -1,0 +1,45 @@
+# Rename to players.yml
+# All Players should have made their DOTA account public.
+# name: Slack username
+# steam_id: Dota account id from dotabuff, go to the user profile on dotabuff and copy the id from the url ie: http://www.dotabuff.com/players/{steam_id}
+# show_own: Whether to show individual games for this player under the group games.
+-
+  name: jay
+  steam_id: 45197163
+  show_own: true
+-
+  name: eric
+  steam_id: 45141216
+  show_own: true
+-
+  name: pat
+  steam_id: 57386106
+  show_own: false
+-
+  name: jf
+  steam_id: 42844470
+  show_own: false
+-
+  name: kyang
+  steam_id: 65398021
+  show_own: false
+-
+  name: helen
+  steam_id: 117474194
+  show_own: false
+-
+  name: RANDOMSHITTER
+  steam_id: 66572911
+  show_own: false
+-
+  name: glenn
+  steam_id: 67774932
+  show_own: true
+-
+  name: jus
+  steam_id: 67762039
+  show_own: true
+-
+  name: sean
+  steam_id: 20083952
+  show_own: true
